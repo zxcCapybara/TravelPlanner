@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+#-app {
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  @apply text-3xl text-gray-800;
+}
+
+p {
+  @apply text-[1.25rem]
+}
